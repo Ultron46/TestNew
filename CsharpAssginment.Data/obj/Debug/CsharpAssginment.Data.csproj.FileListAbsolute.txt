@@ -1,0 +1,12 @@
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\CsharpAssginment.Data.dll.config
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\CsharpAssginment.Data.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\CsharpAssginment.Data.pdb
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\EntityFramework.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\EntityFramework.xml
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\obj\Debug\CsharpAssginment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\obj\Debug\CsharpAssginment.Data.csproj.CopyComplete
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\obj\Debug\CsharpAssginment.Data.dll
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\obj\Debug\CsharpAssginment.Data.pdb
+C:\Users\Hardik.Prajapati\source\repos\CsharpAssignment\CsharpAssginment.Data\obj\Debug\CsharpAssginment.Data.csprojAssemblyReference.cache
